@@ -13,6 +13,12 @@ run it:
 go run .
 ```
 
+test it:
+
+```sh
+go test .
+```
+
 ## What is being requested
 
 Two endpoints need to be implemented as part of the assignment:
