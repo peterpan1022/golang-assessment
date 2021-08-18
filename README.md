@@ -41,7 +41,7 @@ The provided word-list (english dictionary) must be used for the english languag
 
 When getting anagrams for a given word, the passed word should not be included as part of the result. Ie: for 'cat' it should return ['act'] and not ['cat', 'act'].
 
-The API must be served @localhost:3001 when running ```sh go run .```.
+The API must be served @localhost:3001 when running ```sh go run .```
 
 ## Bonus points
 You can tackle as many bonus points as want/can, they are not mandatory but welcomed.
